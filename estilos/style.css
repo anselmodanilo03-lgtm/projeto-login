@@ -10,12 +10,11 @@ body {
 }
 
 main {
-    display: inline-block;
     width: 500px;
-    border: 2px solid black;
     margin: auto;
-}
-
-form > h1 {
-    text-align: center;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: white;
+    text-align: justify;
 }
