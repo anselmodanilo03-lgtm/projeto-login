@@ -9,10 +9,10 @@ body {
     background-attachment: fixed;
 }
 
-main {
+div {
     width: 500px;
     margin: auto;
-    height: auto;
+    margin-top: 100px;
     border: 2px solid black;
     border-radius: 8px;
     background-color: white;
